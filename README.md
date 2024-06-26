@@ -31,4 +31,4 @@ XGBoost with SMOTE emerged as the top performer:
 <b> ROC AUC score:</b> 0.9999 (train), 0.9833 (test).
 <br>Decision was made to avoid undersampling due to potential information loss.
 
-Conclusion: Based on its simplicity, efficiency, and outstanding performance metrics, XGBoost with SMOTE is recommended as the best model for credit card fraud detection in this scenario.
+<b>Conclusion: </b>Based on its simplicity, efficiency, and outstanding performance metrics, XGBoost with SMOTE is recommended as the best model for credit card fraud detection in this scenario.
